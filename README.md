@@ -1,2 +1,2 @@
 # background-generator
-Gradient Background Generator
+Simple gradient background generator, with buttons to randomize the colors or hand pick them. Built with JavaScript.
